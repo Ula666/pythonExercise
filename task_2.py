@@ -1,13 +1,19 @@
 # TASK 2:
-menu_items = {1: {"item": "starter", "price": 5.99},
-              2: {"item": "pizza", "price": 9.99},
-              3: {"item": "pasta", "price": 8.99}}
+# - Create menu
+# - Display menu to a customer
+# - add orders to a list
+# - print orders to customer
 
-# print(f"Menu items: {menu_items}")
+menu_items = ["1: pizza margarita ", "2: mushroom risotto", "3: pumpkin soup", "4: tomato panini", "5: orange juice", "6: chocolate cake"]
+order_list = 0
 
-# def menu():
-#     print("Menu items:")
-#     for items, price in menu.items():
+def menu():
+    for item in menu_items:
+        print(f"Menu item {item}")
+
+print("--Restaurant Menu--")
+menu()
 
 
-# menu()
+
+

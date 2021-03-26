@@ -25,3 +25,7 @@
 - Add, Subtract, Multiply, Divide
 - Area of a circle, square, or triangle
 ### Task 6 - make a loop with a range that says hello 10 times
+
+
+### Task - Scrabble calculator
+- Create a Scrabble word calculator that will provide the correct scores dependent on the string provided.
