@@ -15,7 +15,7 @@
 - Keep adding to the list until they use exit
 - Entering exit causes an exit
 - When program exits, display list in caps and numbered
-### Task 4 Print numbers 1 to 100
+### Task 4 "FizzBuzz"
 - Multiples of 3 print "Fizz"
 - Multiples of 5 print "Buzz"
 - Multiples of both 3 and 5 print "FizzBuzz"
